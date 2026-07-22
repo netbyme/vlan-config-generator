@@ -12,11 +12,3 @@ A Python tool that generates ready-to-paste Cisco IOS VLAN configuration command
 ## Why this matters
 
 Network engineers configure VLANs manually on every switch — one typo can break connectivity for an entire department. This tool generates the commands automatically and consistently every time.
-
-## How to run
-
-```bash
-python3 vlan_generator.py
-```
-
-## Output example
